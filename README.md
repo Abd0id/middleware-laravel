@@ -3,7 +3,53 @@
 Learn Laravel **step by step** like a game! 🚀
 
 ---
+---
 
+# 🎮 Laravel Gamified Live Coding
+
+Learn Laravel **step by step** like a game! 🚀
+
+---
+
+## ⚡ Setup (Get Ready to Play)
+
+After cloning the repo, set up the project:
+
+1. **Install PHP dependencies:**
+
+   ```bash
+   composer install
+   ```
+
+2. **Copy the `.env` file:**
+
+   ```bash
+   cp .env.example .env
+   ```
+
+3. **Generate the app key:**
+
+   ```bash
+   php artisan key:generate
+   ```
+
+4. **Update `.env` with your database info** and make sure your database exists.
+
+5. **Run database migrations:**
+
+   ```bash
+   php artisan migrate
+   ```
+
+6. **Start the development server:**
+
+   ```bash
+   php artisan serve
+   ```
+
+Now you’re ready to play!
+
+---
 ## 📋 How It Works
 
 Four levels to master Laravel:
