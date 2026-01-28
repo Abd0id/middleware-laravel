@@ -2,15 +2,6 @@
 
 Learn Laravel **step by step** like a game! 🚀
 
----
----
-
-# 🎮 Laravel Gamified Live Coding
-
-Learn Laravel **step by step** like a game! 🚀
-
----
-
 ## ⚡ Setup (Get Ready to Play)
 
 After cloning the repo, set up the project:
